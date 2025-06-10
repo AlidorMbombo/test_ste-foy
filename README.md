@@ -12,5 +12,8 @@ Tristan Pare
 M. Arlette  
 Patrick Pilote  
 Olivier nkegange  
-Alidor Nkoji Mbombo
-
+Imane El Amri  
+Hamed Ouattara  
+Bessifi Mahrane  
+Sameh Abaab 
+Alidor Nkoji Mbombo  
