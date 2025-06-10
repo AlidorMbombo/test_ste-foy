@@ -12,9 +12,7 @@ Tristan Pare
 M. Arlette  
 Patrick Pilote  
 Olivier nkegange  
-Imane El Amri
-Hamed Ouattara
-
-Bessifi Mahrane
-
+Imane El Amri  
+Hamed Ouattara  
+Bessifi Mahrane  
 Sameh Abaab 
